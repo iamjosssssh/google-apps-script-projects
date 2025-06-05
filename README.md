@@ -14,62 +14,62 @@ New projects start from GAS085 are in
 [projects](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects)
 folder, old ones are in the branches.
 
-- [GAS114 Unleash the Power of Image Annotation | Integrate Vision API with Google Sheets and Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS114) - [:tv: YouTube](https://youtu.be/Ra9vlnZhGGM)
-- [GAS113 Personal Time Tracker for Your Projects in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS113) - [:tv: YouTube](https://youtu.be/Q49pBQpRE8o)
-- [GAS112 Compress Uploaded Images in Google Forms to Save Your Drive Space](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS112) - [:tv: YouTube](https://youtu.be/ks0-DI7VR5Q)
-- [GAS111 Export Multiple Gmail Threads as PDFs or One Single PDF](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS111) -
+- [GAS114 Unleash the Power of Image Annotation | Integrate Vision API with Google Sheets and Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Image-Annotation) - [:tv: YouTube](https://youtu.be/Ra9vlnZhGGM)
+- [GAS113 Personal Time Tracker for Your Projects in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Personal-Time-Tracker) - [:tv: YouTube](https://youtu.be/Q49pBQpRE8o)
+- [GAS112 Compress Uploaded Images in Google Forms to Save Your Drive Space](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-Image-Compressor) - [:tv: YouTube](https://youtu.be/ks0-DI7VR5Q)
+- [GAS111 Export Multiple Gmail Threads as PDFs or One Single PDF](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Threads-to-PDF) -
   [:tv: YouTube](https://youtu.be/tzDkQGKRSPc)
-- [GAS110 Merge Multiple Google Docs into One](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS110) -
+- [GAS110 Merge Multiple Google Docs into One](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Merge-Docs) -
   [:tv: YouTube](https://youtu.be/5nNjsUbTavM)
-- [GAS109 FormSign - Doc Signature with Google Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS109) -
+- [GAS109 FormSign - Doc Signature with Google Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/FormSign-Doc-Signature) -
   [:tv: YouTube](https://youtu.be/nQV5r_WOVw4)
-- [GAS108 Employee Profile App with Data in Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS108) -
+- [GAS108 Employee Profile App with Data in Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Employee-Profile-App) -
   [:tv: YouTube](https://youtu.be/GO-jyUF6Yn0)
-- [GAS107 Join & Split Rich Text Values In Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS107) -
+- [GAS107 Join & Split Rich Text Values In Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Rich-Text-Join-Split) -
   [:tv: YouTube](https://youtu.be/R3dC3ZkAYIo)
-- [GAS106 Add View Count to Your Blogger Posts](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS106) -
+- [GAS106 Add View Count to Your Blogger Posts](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Blogger-View-Counter) -
   [:tv: YouTube](https://youtu.be/hdvCj1z7Aa4)
-- [GAS105 Create Gmail Replies and Drafts with ChatGPT](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS105) -
+- [GAS105 Create Gmail Replies and Drafts with ChatGPT](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/ChatGPT-Gmail-Replies) -
   [:tv: YouTube](https://youtu.be/cTY9bZYmSSc)
-- [GAS104 Copy & Update Scripts to Multiple Files](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS104) -
+- [GAS104 Copy & Update Scripts to Multiple Files](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Script-Copier) -
   [:tv: YouTube](https://youtu.be/8DL6UpiaxK4)
-- [GAS103 Watch Updates in a Google Drive Folder](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS103) -
+- [GAS103 Watch Updates in a Google Drive Folder](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Drive-Folder-Watcher) -
   [:tv: YouTube](https://youtu.be/iRqvvS0F9Bg)
-- [GAS102 Booking & Cancellation with Google Calendar & Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS102) -
+- [GAS102 Booking & Cancellation with Google Calendar & Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Booking-Cancellation) -
   [:tv: YouTube](https://youtu.be/bwZ8xro6alU)
-- [GAS101 Easily Update YouTube Subtitles in Multiple Languages](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS101) -
+- [GAS101 Easily Update YouTube Subtitles in Multiple Languages](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/YouTube-Subtitle-Updater) -
   [:tv: YouTube](https://youtu.be/uqHa4kZCfHw)
-- [GAS100 ChatGPT in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS100) -
+- [GAS100 ChatGPT in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/ChatGPT-in-Sheets) -
   [:tv: YouTube](https://youtu.be/wVy-X92R2rU)
-- [GAS-099 Google Calendar Time Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS099) -
+- [GAS-099 Google Calendar Time Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Calendar-Time-Tracker) -
   [:tv: YouTube](https://youtu.be/43CKGNZKHRI)
-- [GAS-098 Maze Generator](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS098) -
+- [GAS-098 Maze Generator](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Maze-Generator) -
   [:tv: YouTube](https://youtu.be/EwgH-7BnOZ0)
-- [GAS-097 Multiple Select in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS097) -
+- [GAS-097 Multiple Select in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Multiple-Select-Sheet) -
   [:tv: YouTube](https://youtu.be/et_yAekJDf0)
-- [GAS-096 Drive Folder Sharing App](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS096) -
+- [GAS-096 Drive Folder Sharing App](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Drive-Folder-Sharing) -
   [:tv: YouTube](https://youtu.be/UUdiIwLR5ZE)
-- [GAS-095 Reservation System](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS095) -
+- [GAS-095 Reservation System](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Reservation-System) -
   [:tv: YouTube](https://youtu.be/9W_Y79sN1s0)
-- [GAS-094 Google Form Mailman](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS094) -
+- [GAS-094 Google Form Mailman](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-Mailman) -
   [:tv: YouTube](https://youtu.be/Wqovh6QT77I)
-- [GAS-093 Google Calendar Watcher](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS093) -
+- [GAS-093 Google Calendar Watcher](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Calendar-Watcher) -
   [:tv: YouTube](https://youtu.be/0-8aWeGDDq8)
-- [GAS-092 Send Google Tasks](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS092) -
+- [GAS-092 Send Google Tasks](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Send-Google-Tasks) -
   [:tv: YouTube](https://youtu.be/I3xQzMr6U-A)
-- [GAS-091 File Share Automation](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS091) -
+- [GAS-091 File Share Automation](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/File-Share-Automation) -
   [:tv: YouTube](https://youtu.be/KpWNqPXi50E)
-- [GAS-090 Product Entry Form](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS090) -
+- [GAS-090 Product Entry Form](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Product-Entry-Form) -
   [:tv: YouTube](https://www.youtube.com/watch?v=2z5oDj_-lEg)
-- [GAS-089 Gmail Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS089) -
+- [GAS-089 Gmail Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Tracker) -
   [:tv: YouTube](https://youtu.be/k8YXHfjoG2o)
-- [GAS-088 Gmail Downloader](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS088) -
+- [GAS-088 Gmail Downloader](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Attachment-Downloader) -
   [:tv: YouTube](https://youtu.be/4q_sN-hXClc)
-- [GAS-087 Custom Form with Signature](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS087) -
+- [GAS-087 Custom Form with Signature](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-with-Signature) -
   [:tv: YouTube](https://youtu.be/istqhP0IFKk)
-- [GAS-086 Approval Application](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS086) -
+- [GAS-086 Approval Application](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Approval-App) -
   [:tv: YouTube](https://youtu.be/hctEeYD6URg)
-- [GAS-085 Google Slide Automation with SlidePro](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/GAS085) -
+- [GAS-085 Google Slide Automation with SlidePro](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/SlidePro-Automation) -
   [:tv: YouTube](https://youtu.be/tMruEzRCJD4)
 - [GAS-084 Google Doc Automation with DocPro](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-084) -
   [:tv: YouTube](https://youtu.be/gXJkpByChTo)
