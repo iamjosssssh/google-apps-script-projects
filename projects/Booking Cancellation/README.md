@@ -12,3 +12,9 @@
 [<img src="https://img.shields.io/badge/Cancellation-Form-grey.svg" alt="Cancellation form">](https://forms.gle/Rqs7UccxtjbzF3ma8)
 
 ## Screenshots
+
+## How It Works
+- `api.js` receives booking or cancellation requests from Google Forms submissions.
+- `config.js` stores sheet names and status values used across the project.
+- `main.js` processes form responses, creates or deletes calendar events and logs actions.
+- `utils.js` contains helper functions such as reading configuration cells and sending emails.

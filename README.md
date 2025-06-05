@@ -1,143 +1,188 @@
 # Google Apps Script Projects
 
-### Description
+This repository contains over thirty example projects demonstrating Google Apps Script integrations with Sheets, Forms, Docs, Gmail and other services. Each folder in `projects` can be copied into your own Workspace to learn from or adapt.
 
-My Google Apps Script projects shared on
-[:tv: YouTube](https://www.youtube.com/ashtonfei/), each branch is a project
-about the video. You can find the source code about the projects there, branch
-name is in the video title.
-[![Projects - Google Apps Script](https://github.com/ashtonfei/live-coding/assets/16481229/eb5424cb-5c4a-45f1-94b1-91b2c62c1104)](https://youtube.com/@ashtonfei)
+## Projects Overview
 
-### All projects
+The table below summarises what each project does. Projects with two word names are shown with spaces rather than hyphens.
 
-New projects start from GAS085 are in
-[projects](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects)
-folder, old ones are in the branches.
 
-- [GAS114 Unleash the Power of Image Annotation | Integrate Vision API with Google Sheets and Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Image-Annotation) - [:tv: YouTube](https://youtu.be/Ra9vlnZhGGM)
-- [GAS113 Personal Time Tracker for Your Projects in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Personal-Time-Tracker) - [:tv: YouTube](https://youtu.be/Q49pBQpRE8o)
-- [GAS112 Compress Uploaded Images in Google Forms to Save Your Drive Space](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-Image-Compressor) - [:tv: YouTube](https://youtu.be/ks0-DI7VR5Q)
-- [GAS111 Export Multiple Gmail Threads as PDFs or One Single PDF](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Threads-to-PDF) -
-  [:tv: YouTube](https://youtu.be/tzDkQGKRSPc)
-- [GAS110 Merge Multiple Google Docs into One](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Merge-Docs) -
-  [:tv: YouTube](https://youtu.be/5nNjsUbTavM)
-- [GAS109 FormSign - Doc Signature with Google Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/FormSign-Doc-Signature) -
-  [:tv: YouTube](https://youtu.be/nQV5r_WOVw4)
-- [GAS108 Employee Profile App with Data in Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Employee-Profile-App) -
-  [:tv: YouTube](https://youtu.be/GO-jyUF6Yn0)
-- [GAS107 Join & Split Rich Text Values In Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Rich-Text-Join-Split) -
-  [:tv: YouTube](https://youtu.be/R3dC3ZkAYIo)
-- [GAS106 Add View Count to Your Blogger Posts](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Blogger-View-Counter) -
-  [:tv: YouTube](https://youtu.be/hdvCj1z7Aa4)
-- [GAS105 Create Gmail Replies and Drafts with ChatGPT](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/ChatGPT-Gmail-Replies) -
-  [:tv: YouTube](https://youtu.be/cTY9bZYmSSc)
-- [GAS104 Copy & Update Scripts to Multiple Files](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Script-Copier) -
-  [:tv: YouTube](https://youtu.be/8DL6UpiaxK4)
-- [GAS103 Watch Updates in a Google Drive Folder](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Drive-Folder-Watcher) -
-  [:tv: YouTube](https://youtu.be/iRqvvS0F9Bg)
-- [GAS102 Booking & Cancellation with Google Calendar & Forms](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Booking-Cancellation) -
-  [:tv: YouTube](https://youtu.be/bwZ8xro6alU)
-- [GAS101 Easily Update YouTube Subtitles in Multiple Languages](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/YouTube-Subtitle-Updater) -
-  [:tv: YouTube](https://youtu.be/uqHa4kZCfHw)
-- [GAS100 ChatGPT in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/ChatGPT-in-Sheets) -
-  [:tv: YouTube](https://youtu.be/wVy-X92R2rU)
-- [GAS-099 Google Calendar Time Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Calendar-Time-Tracker) -
-  [:tv: YouTube](https://youtu.be/43CKGNZKHRI)
-- [GAS-098 Maze Generator](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Maze-Generator) -
-  [:tv: YouTube](https://youtu.be/EwgH-7BnOZ0)
-- [GAS-097 Multiple Select in Google Sheets](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Multiple-Select-Sheet) -
-  [:tv: YouTube](https://youtu.be/et_yAekJDf0)
-- [GAS-096 Drive Folder Sharing App](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Drive-Folder-Sharing) -
-  [:tv: YouTube](https://youtu.be/UUdiIwLR5ZE)
-- [GAS-095 Reservation System](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Reservation-System) -
-  [:tv: YouTube](https://youtu.be/9W_Y79sN1s0)
-- [GAS-094 Google Form Mailman](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-Mailman) -
-  [:tv: YouTube](https://youtu.be/Wqovh6QT77I)
-- [GAS-093 Google Calendar Watcher](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Calendar-Watcher) -
-  [:tv: YouTube](https://youtu.be/0-8aWeGDDq8)
-- [GAS-092 Send Google Tasks](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Send-Google-Tasks) -
-  [:tv: YouTube](https://youtu.be/I3xQzMr6U-A)
-- [GAS-091 File Share Automation](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/File-Share-Automation) -
-  [:tv: YouTube](https://youtu.be/KpWNqPXi50E)
-- [GAS-090 Product Entry Form](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Product-Entry-Form) -
-  [:tv: YouTube](https://www.youtube.com/watch?v=2z5oDj_-lEg)
-- [GAS-089 Gmail Tracker](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Tracker) -
-  [:tv: YouTube](https://youtu.be/k8YXHfjoG2o)
-- [GAS-088 Gmail Downloader](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Gmail-Attachment-Downloader) -
-  [:tv: YouTube](https://youtu.be/4q_sN-hXClc)
-- [GAS-087 Custom Form with Signature](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Form-with-Signature) -
-  [:tv: YouTube](https://youtu.be/istqhP0IFKk)
-- [GAS-086 Approval Application](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/Approval-App) -
-  [:tv: YouTube](https://youtu.be/hctEeYD6URg)
-- [GAS-085 Google Slide Automation with SlidePro](https://github.com/ashtonfei/google-apps-script-projects/tree/master/projects/SlidePro-Automation) -
-  [:tv: YouTube](https://youtu.be/tMruEzRCJD4)
-- [GAS-084 Google Doc Automation with DocPro](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-084) -
-  [:tv: YouTube](https://youtu.be/gXJkpByChTo)
-- [GAS-083 Google Form Concatenator](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-083) -
-  [:tv: YouTube](https://youtu.be/r6RUa86aGk4)
-- [GAS-082 Gmail Reminder](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-082) -
-  [:tv: YouTube](https://youtu.be/tEEc3Tcu2LI)
-- [GAS-081 Vue GAS Web App Template](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-081) -
-  [:tv: YouTube](https://youtu.be/bYmDyGc5vds)
-- [GAS-080 Google Form with UID in Confirmation](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-080) -
-  [:tv: YouTube](https://youtu.be/AQoCKA4yM_w)
-- [GAS-079 Questionnaire with Data from Sheet](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-079) -
-  [:tv: YouTube](https://youtu.be/SAgCqxlPCRE)
-- [GAS-078 Mail Merge Google Sheet](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-078) -
-  [:tv: YouTube](https://youtu.be/C5Wv3zI2RF4)
-- [GAS-077 Shopping Cart](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-077) -
-  [:tv: YouTube](https://youtu.be/sKUpe6XCXRk)
-- [GAS-076 Build Your Own Library](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-076) -
-  [:tv: YouTube](https://youtu.be/0NW6yW-FgXs)
-- [GAS-075 Apply Rich Text to Selection](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-075) -
-  [:tv: YouTube](https://youtu.be/49popuunyUE)
-- [GAS-074 Dashboard with ChartJS & GAS](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-074) -
-  [:tv: YouTube](https://youtu.be/Qj94QzjPb04)
-- [GAS-073 Submit Google Form from Sheet](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-073) -
-  [:tv: YouTube](https://youtu.be/K5GO4QN0XQA)
-- [GAS-072 Zoom Transcript App](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-072) -
-  [:tv: YouTube](https://youtu.be/XRUNTyyJeQA)
-- [GAS-071 Create Google Form with Multiple Dependent Dropdowns](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-071) -
-  [:tv: YouTube](https://youtu.be/9fYTk-6MxdE)
-- [GAS-070 Google Form Approval](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-070) -
-  [:tv: YouTube](https://youtu.be/PtIo_oPoAtk)
-- [GAS-069 CRUD with Airtable API](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-069) -
-  [:tv: YouTube](https://youtu.be/JVH72QDiOfY)
-- [GAS-068 Build a Telegram Bot](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-068) -
-  [:tv: YouTube](https://youtu.be/RNPyCH55bWQ)
-- [GAS-067 Read XML from Gmail to Sheet](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-067) -
-  [:tv: YouTube](https://youtu.be/dvtXro10qd8)
-- [GAS-066 Copydown Addon Replication](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-066) -
-  [:tv: YouTube](https://youtu.be/urj8_pjqT-k)
-- [GAS-065 Google Form Restriction](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-065) -
-  [:tv: YouTube](https://youtu.be/ial1XLfUvPc)
-- [GAS-064 Meeting Assistant](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-064) -
-  [:tv: YouTube](https://youtu.be/RwmFq40Usns)
-- [GAS-063 Build an API with Data in Google Sheet](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-063) -
-  [:tv: YouTube](https://youtu.be/NUYR39JxlJA)
-- [GAS-062 Typeform Style Form](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-062) -
-  [:tv: YouTube](https://youtu.be/6RwjYyfZDBs)
-- [GAS-061 Embed Prefilled Form to Gmail](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-061) -
-  [:tv: YouTube](https://youtu.be/dUGDwNoMHcs)
-- [GAS-060 No Reply Emails](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-060) -
-  [:tv: YouTube](https://youtu.be/4z0d6RUA96g)
-- [GAS-059 How to use clasp](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-059) -
-  [:tv: YouTube](https://youtu.be/V-oE2OyvTKM)
-- [GAS-058 Google Form with File Categorization](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-058) -
-  [:tv: YouTube](https://youtu.be/5gXcSGUYJVA)
-- [GAS-057 Custom Form with VueJS and MCSS](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-057) -
-  [:tv: YouTube](https://youtu.be/MfmjUUS4UUE)
+**Approval App**
+- Builds a Vue interface for submitting approval requests.
+- Stores requests and user data in a spreadsheet.
+- Allows reviewers to update each item's status.
 
-### How to use this project
+**Blogger View Counter**
+- Tracks page views of Blogger posts via an Apps Script web app.
+- Stores counts in a spreadsheet.
+- Returns JSON data for embedding on the page.
 
-- Option 1. You can copy the files with extenstion .js(.gs), .html, .json to the
-  online [apps script editor](https://script.google.com/) of your project.
-- Option 2. Files structure are optimized for clasp, please read this doc if you
-  want to use it with clasp.
-  [GAS-059 How to use clasp](https://github.com/ashtonfei/google-apps-script-projects/tree/GAS-059) -
-  [:tv: YouTube](https://youtu.be/V-oE2OyvTKM)
+**Booking Cancellation**
+- Google Forms allow users to book or cancel appointments.
+- Creates and removes calendar events accordingly.
+- Sends confirmation emails for each action.
 
-### YouTube
+**Calendar Time Tracker**
+- Provides a sidebar to log time against calendar events.
+- Exposes an API to summarise entries.
+- Can email daily reports.
 
-More videos about
-[Google Apps Script](https://www.youtube.com/playlist?list=PLQhwjnEjYj8Bf_EZDrrcmkB9vcB9Sk3x0)
+**Calendar Watcher**
+- Watches a calendar for event changes using triggers.
+- Writes updates to a spreadsheet for tracking.
+- Sends email notifications when events are modified.
+
+**ChatGPT Gmail Replies**
+- Adds a custom menu in Gmail to create replies with ChatGPT.
+- Saves configuration settings in the spreadsheet.
+- Generates draft responses ready to review and send.
+
+**ChatGPT in Sheets**
+- Connects Google Sheets to the OpenAI API.
+- Functions send prompts and write responses back to the sheet.
+- Conversation history is stored for reference.
+
+**Dependent Dropdown Form**
+- Builds a form with cascading dropdown selections.
+- Validates combinations on submission.
+- Logs each response to a spreadsheet.
+
+**Drive Folder Sharing**
+- Web app to create time limited folder share links.
+- Manages allowed folders and access rules in Sheets.
+- Emails the generated link to recipients.
+
+**Drive Folder Watcher**
+- Monitors a Drive folder for new files.
+- Records file metadata to a sheet.
+- Trigger runs on a schedule.
+
+**Employee Profile App**
+- Simple web interface for managing employee profiles.
+- Data is stored in Google Sheets.
+- Users can search and update records.
+
+**File Share Automation**
+- Processes Drive share requests arriving by email.
+- Auto‑approves requests based on a whitelist.
+- Logs actions and notifies the requester.
+
+**Form Image Compressor**
+- Compresses images uploaded via a Google Form.
+- Trigger resizes and saves the files to Drive.
+- Reduces storage usage automatically.
+
+**Form Mailman**
+- Sends customised emails when a form is submitted.
+- Sidebar interface lets you manage templates.
+- Installs triggers to process future responses.
+
+**Form to Calendar**
+- Creates calendar events directly from form answers.
+- Parses dates and times from the responses.
+- Emails confirmations to participants.
+
+**Form with Signature**
+- Custom form that captures a digital signature image.
+- Saves responses along with the signature file.
+- Emails a PDF copy of the submission.
+
+**FormSign Doc Signature**
+- Users sign a Google Doc via a form workflow.
+- Generates a signed copy in Drive.
+- Sends notification emails with the document link.
+
+**Gmail Attachment Downloader**
+- Searches Gmail for messages with attachments.
+- Downloads files to a Drive folder.
+- Marks processed emails with a label.
+
+**Gmail Threads to PDF**
+- Exports one or more Gmail threads into PDF files.
+- Optionally combines multiple messages into one PDF.
+- Saves the documents in Drive.
+
+**Gmail Tracker**
+- Adds a dialog to send trackable emails.
+- Records send and open events in a sheet.
+- Generates unique tracking IDs for each message.
+
+**Gmail XML to Sheet**
+- Looks for XML attachments in Gmail.
+- Parses selected tags and writes data to Sheets.
+- Supports filtering out unwanted nodes.
+
+**Html Email Sender**
+- Demonstrates sending styled HTML emails.
+- Template variables are replaced with data from Sheets.
+- Can be extended to send bulk messages.
+
+**Image Annotation**
+- Integrates the Vision API to label uploaded images.
+- Results are written to a spreadsheet.
+- Trigger runs on each form submission.
+
+**Maze Generator**
+- Generates random mazes inside Google Sheets.
+- Implements Prim’s algorithm.
+- Provides demo functions for creating and clearing a maze.
+
+**Merge Docs**
+- Merges multiple Docs into a single document.
+- Updates status cells in the spreadsheet.
+- Returns a link to the merged file.
+
+**Multiple Select Sheet**
+- Sidebar UI lets users pick multiple items in a sheet.
+- Selected values are written back to the cells.
+- Shows how to build an interactive sidebar.
+
+**Options Parser**
+- Utility for parsing CSV or JSON style option strings.
+- Returns arrays of values for use in scripts.
+- Helpful for processing form option lists.
+
+**Personal Time Tracker**
+- Tracks time spent on tasks within a spreadsheet.
+- Uses a timer and logs entries with start and stop times.
+- Can email a summary of hours worked.
+
+**Product Entry Form**
+- Dialog for entering new product information.
+- Stores submissions in a dedicated sheet.
+- Menu item launches the form in the spreadsheet.
+
+**Reservation System**
+- Books available slots on a calendar.
+- Displays availability and prevents double booking.
+- Handles cancellations and updates.
+
+**Rich Text Join Split**
+- Example of merging and splitting rich text values.
+- Preserves formatting when processing cell text.
+- Demonstrates Apps Script rich text APIs.
+
+**Script Copier**
+- Copies Apps Script files between projects.
+- Handles versioning of destination files.
+- Provides a menu to initiate the copy process.
+
+**Send Google Tasks**
+- Creates Google Tasks from rows in a sheet.
+- Reads due dates, notes and list names from the data.
+- Marks tasks as sent once processed.
+
+**SlidePro Automation**
+- Generates slides from a template using the SlidePro library.
+- Data is pulled from a spreadsheet.
+- Produces a final slide deck automatically.
+
+**Weather Forecast**
+- Retrieves weather data and writes it to Sheets.
+- Adds a custom menu for running the forecast.
+- Displays the results in a sidebar or alert.
+
+**YouTube Subtitle Updater**
+- Fetches subtitles for a YouTube video through the API.
+- Allows editing and re‑uploading the caption file.
+- Useful for maintaining multi‑language subtitles.

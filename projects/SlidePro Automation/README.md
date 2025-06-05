@@ -16,3 +16,7 @@ A demo proejct to create Google Slide Report automatically with library [SlidePr
 ## Library source code
 
 [SlidePro](https://github.com/ashtonfei/gas-libs/tree/SlidePro)
+
+## How It Works
+- `Code.js` reads row data and merges it into a slide template using the SlidePro library.
+- After generation the finished slide deck is saved to Drive ready to share.

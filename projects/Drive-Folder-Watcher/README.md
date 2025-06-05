@@ -8,3 +8,8 @@
 ## Links
 
 [<img src="https://img.shields.io/badge/Make-Copy-green.svg" alt="Make a copy">](https://docs.google.com/spreadsheets/d/1Ir20tp3mzzeEj2Q4C9lhkUmeDkJ42MT4kekvK8JQLBE/copy)
+
+## How It Works
+- Apps Script triggers poll a specified Drive folder for new files.
+- Metadata about detected files is written to a sheet for record keeping.
+- The included HTML sidebar provides quick access to run the update check manually.
